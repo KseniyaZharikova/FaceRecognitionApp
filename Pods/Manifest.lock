@@ -1,0 +1,28 @@
+PODS:
+  - SnapKit (5.6.0)
+  - Veriff (0.1.0):
+    - SnapKit
+
+DEPENDENCIES:
+  - Veriff (from `https://github.com/KseniyaZharikova/Veriff.git`)
+
+SPEC REPOS:
+  trunk:
+    - SnapKit
+
+EXTERNAL SOURCES:
+  Veriff:
+    :git: https://github.com/KseniyaZharikova/Veriff.git
+
+CHECKOUT OPTIONS:
+  Veriff:
+    :commit: 36c2dafe8472a6f55614d595aec01026a256b74c
+    :git: https://github.com/KseniyaZharikova/Veriff.git
+
+SPEC CHECKSUMS:
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+  Veriff: 36d3677e2b3e0c203c7cc53f07ac3b363e42efa3
+
+PODFILE CHECKSUM: fd23a335caf73232e42cfde0d809fc1124325bcc
+
+COCOAPODS: 1.11.3

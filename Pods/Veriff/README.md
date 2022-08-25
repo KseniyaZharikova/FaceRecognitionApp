@@ -1,0 +1,2 @@
+# Veriff
+Veriff SDK

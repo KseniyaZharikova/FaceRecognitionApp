@@ -1,0 +1,37 @@
+{
+  "name": "Veriff",
+  "platforms": {
+    "ios": "14.0"
+  },
+  "summary": "Veriff lets a user detect face and documents.",
+  "requires_arc": true,
+  "version": "0.1.0",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "KseniyaZharikova": "kseniya.zharikova.viktorovna@gmail.com"
+  },
+  "homepage": "https://github.com/KseniyaZharikova/Veriff",
+  "source": {
+    "git": "https://github.com/KseniyaZharikova/Veriff.git",
+    "tag": "0.1.0"
+  },
+  "frameworks": "UIKit",
+  "dependencies": {
+    "SnapKit": [
+
+    ]
+  },
+  "source_files": "Veriff/**/*.{swift,h,m,xib,storyboard}",
+  "resources": "Veriff/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}",
+  "resource_bundles": {
+    "Veriff": [
+      "Pod/Classes/**/*.{storyboard,xib,xcassets,json,imageset,png}"
+    ]
+  },
+  "exclude_files": "Classes/Exclude",
+  "swift_versions": "4.2",
+  "swift_version": "4.2"
+}
